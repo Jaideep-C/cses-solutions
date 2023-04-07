@@ -1,5 +1,11 @@
 # CSES Solutions
 
+The CSES Problem Set is a collection of algorithmic programming problems created by the Competitive Programmer's Guild at the University of Helsinki. The set is designed to help programmers of all levels improve their algorithmic programming skills, with problems ranging from simple introductory problems to advanced problems that require complex algorithms.
+
+The problems in the set cover a wide range of topics, including dynamic programming, graph algorithms, number theory, and more. Each problem has a unique task number and is accompanied by a set of input and output specifications, as well as time and memory limits for the solution.
+
+The CSES Problem Set is a great resource for anyone looking to improve their algorithmic programming skills, whether you are a beginner or an experienced programmer. It provides a platform to practice and learn new algorithms and techniques, and to improve your problem-solving skills. The problem set is available online and is free to use, with no registration required.
+
 This repository contains my solutions to the problems on the [CSES](https://cses.fi/problemset/) website. All the solutions are written in C++ and are organized by task number.
 
 ## Getting Started
